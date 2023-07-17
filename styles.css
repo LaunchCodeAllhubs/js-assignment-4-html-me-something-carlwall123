@@ -1,8 +1,20 @@
 /* Write your CSS here! */
+#name {
+    font-size: 40px;
+
+}
+
+main  {
+    text-align: center;
+}
+
 
 body {
     margin: 8px;
+    padding: 20px 50px;
     display: block; 
+    background-color: beige;
+    font-size: 20px;
 }
 
 #mainHeading {
@@ -11,4 +23,8 @@ body {
 
 #testP.funParagraph {
     color: green;
+}
+
+img{
+    border: 5px solid #870404c6;
 }
